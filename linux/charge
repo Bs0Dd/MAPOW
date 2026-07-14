@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#Set your MA cable ttyUSB port number here
+./mapow 0
